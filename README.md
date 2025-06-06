@@ -45,8 +45,8 @@ We simulate synthetic monthly returns for eight hedge fund strategies, forecast 
 
 - `synthetic_returns.csv`: Generated strategy returns  
 - `simulated_forecast_cube.rds`: Monte Carlo simulations  
-- `optimal_weights.rds`: Optimised portfolio weights
-
+- `optimal_weights.rds`: Optimised portfolio weights   
+- `optimal_weights.csv`: Optimised portfolio weights
 ---
 
 ## Dependencies
